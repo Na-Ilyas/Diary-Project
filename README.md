@@ -1,5 +1,5 @@
 # Diary-Project
-This is a small Diary project that saves your notes in a txt file format within the real time date. It has 4 functions, namely:
+This is a small Diary project written in Python language that saves your notes in a txt file format within the real time date. It has 4 functions, namely:
 add note
 read note with the specific date
 read all notes
